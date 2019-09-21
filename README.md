@@ -15,10 +15,10 @@ For more details see [https://github.com/zaid-dev/Svopt](https://github.com/zaid
 ## Projek Mendatang
 
 ### Kamus Sunda-Indonesia
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zaid-dev/zaid-dev.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+sedang dalam masa pengembangan
 
 ## Services
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having a question or a problem? you can send a email to [zaidharisah@yandex.com](zaidharisah@yandex.com) or [My Facebook Account](https://m.facebook.com/kurotaka.id) and i’ll help you sort it out.
