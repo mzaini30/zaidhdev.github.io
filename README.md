@@ -21,4 +21,4 @@ sedang dalam masa pengembangan
 
 ### Support or Contact
 
-Having a question or a problem? you can send a email to [zaidharisah@yandex.com](zaidharisah@yandex.com) or [My Facebook Account](https://m.facebook.com/kurotaka.id) and i’ll help you sort it out.
+Having a question or a problem? you can send a email to [zaidharisah@yandex.com](zaidharisah@yandex.com) or contact [My Facebook Account](https://m.facebook.com/kurotaka.id) and i’ll help you sort it out.
