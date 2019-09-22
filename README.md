@@ -17,8 +17,6 @@ For more details see [https://github.com/zaid-dev/Svopt](https://github.com/zaid
 ### Kamus Sunda-Indonesia
 sedang dalam masa pengembangan
 
-## Services
+## Support or Contact
 
-### Support or Contact
-
-Having a question or a problem? you can send a email to [zaidharisah@yandex.com](zaidharisah@yandex.com) or contact [My Facebook Account](https://m.facebook.com/kurotaka.id) and i’ll help you sort it out.
+Having a question or a problem? you can send a email to [zaidharisah@yandex.com](mailto://zaidharisah@yandex.com) or contact [My Facebook Account](https://m.facebook.com/kurotaka.id) and i’ll help you sort it out.
