@@ -1,6 +1,6 @@
 ## Welcome to My Page
 
-Hi! Anda bisi [klik disini](https://github.com/zaid-dev?tab=repositories) untuk melihat daftar repositori..
+Hai! Anda bisi [klik disini](https://github.com/zaid-dev?tab=repositories) untuk melihat daftar repositori..
 
 ## Projek Terbaru Saya
 
