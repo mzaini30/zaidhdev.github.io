@@ -14,12 +14,6 @@ Aplikasi ini lebih mirip dengan sebuah game, dengannya pengguan akan diajak untu
 For more details see [https://github.com/zaid-dev/Svopt](https://github.com/zaid-dev/Svopt).
 
 
-### Projek Mendatang
-
-#### Kamus Sunda-Indonesia
-
-\(*Sedang dalam masa pengembangan*\)
-
 ### Support or Contact
 
 Having a question or a problem? you can send a email to [zaidharisah@yandex.com](mailto://zaidharisah@yandex.com) or contact [My Facebook Account](https://m.facebook.com/kurotaka.id) and i’ll help you sort it out.
