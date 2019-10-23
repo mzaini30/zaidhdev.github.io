@@ -15,7 +15,7 @@ For more details see [Svopt](https://github.com/zaid-dev/Svopt).
 
 #### Kamus Sunda-Indonesia v.1.0
 
-Aplikasi ini adalah aplikasi kamus berbasis web yang saya buat menggunakan PHP, dan DBMS MariaDB. Dengan adanya kamus ini diharapkan dapat meningkatkan kemampuan bahasa daerah khususnya bahasa Sunda. Serta melestarikan bahasa daerah ditengah derasnya arus globalisasi. CSS yang digunakan tidak begitu responsive karena memang saya sengaja membuatnya hanya untuk perangkat berbasis Komputer. Jika anda ingin sedikit menambahkan warna, style, atau CSS Media Query agar tampilan lebih responsive, dipersilahkan dengan catatan hasil modifikasi menggunakan lisensi yang sama.
+Aplikasi ini adalah aplikasi kamus berbasis web yang saya buat menggunakan PHP dan DBMS MariaDB. Dengan adanya kamus ini diharapkan dapat meningkatkan kemampuan bahasa daerah khususnya bahasa Sunda. Serta melestarikan bahasa daerah ditengah derasnya arus globalisasi. CSS yang digunakan tidak begitu responsive karena memang saya sengaja membuatnya hanya untuk perangkat Desktop. Jika anda ingin sedikit menambahkan style atau CSS Media Query agar tampilan lebih responsive, dipersilahkan dengan catatan hasil modifikasi menggunakan lisensi yang sama.
 
 Untuk lebih lanjut lihat [Kamus Sunda-Indonesia](https://github.com/zaidhdev/Kamus-Sunda-Indonesia)
 ### Support or Contact
