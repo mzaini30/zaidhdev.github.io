@@ -1,6 +1,6 @@
 ## Welcome to My Page
 
-Hai! Anda bisa [klik disini](https://github.com/zaid-dev?tab=repositories) untuk melihat daftar repositori.
+Hai! Anda bisa [klik disini](https://github.com/zaidhdev?tab=repositories) untuk melihat daftar repositori.
 
 
 ### Projek Terbaru Saya
@@ -11,7 +11,7 @@ Svopt merupakan sebuah aplikasi tes kemampuan bahasa Sunda yang dikembangkan men
 Tidak terikat pada hal itu saja, anda bisa menggunakan tool ini untuk kebutuhan yang lain. Seperti membuat web bahasa,dan anda bisa menggunakannya agar web anda lebih interaktif dan menarik.
 Aplikasi ini lebih mirip dengan sebuah game, dengannya pengguan akan diajak untuk belajar dengan lebih santai alih-alih dengan menghafal teori/kosakata dengan cara konvensional.
 
-Untuk lebih lanjut lihat [Svopt](https://github.com/zaid-dev/Svopt).
+Untuk lebih lanjut lihat [Svopt](https://github.com/zaidhdev/Svopt).
 
 #### Kamus Sunda-Indonesia v.1.0
 
