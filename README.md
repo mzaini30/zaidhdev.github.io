@@ -22,4 +22,4 @@ Untuk lebih lanjut lihat [Kamus Sunda-Indonesia](https://github.com/zaidhdev/Kam
 
 ### Support or Contact
 
-Having a question or a problem? you can send a email to [zaidharisah@yandex.com](mailto://zaidharisah@yandex.com) or contact [My Facebook Account](https://m.facebook.com/zaidhdev) and i’ll help you sort it out.
+Having a question or a problem? you can send a email to [zaidharisah@yandex.com](mailto:zaidharisah@yandex.com) or contact [My Facebook Account](https://m.facebook.com/zaidhdev) and i’ll help you sort it out.
